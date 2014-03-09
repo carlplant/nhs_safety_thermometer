@@ -1,0 +1,3 @@
+Second part of the NHS Safety Thermometer scraper. This part looks for the latest published XLS file and scrapes monthly figures from the validation report. 
+<br>
+ Validation Report - surveys which have failed validation tests and have been excluded from the National Safety Thermometer    The validation checks that the values for each patient are within the range of permitted values, and that the derived fields for each patient are correctly calculated.  It checks each survey for Ward or Team names which relate to Test Data, for surveys which are later than the submission period and for surveys with missing Service or Setting fields.  
